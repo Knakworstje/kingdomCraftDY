@@ -1,0 +1,298 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 13
+npc:
+  '13':
+    metadata:
+      player-skin-name: x
+      player-skin-use-latest-skin: false
+    name: recording-001
+    uuid: 63679bdc-a987-40b6-ac8f-a3368c982916
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-name: x
+      player-skin-use-latest-skin: false
+    name: recording-001
+    uuid: 0443a1e2-ec90-403f-8ac6-ddc910ca4cd0
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-name: x
+      player-skin-use-latest-skin: false
+    name: recording-001
+    uuid: e53a17b8-e913-4c69-ac87-d151edddd455
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 7a6595cd-a5df-4a89-bc5f-10c5e6b1c5ec
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 1ecbcc16-e5e3-457a-acac-5955aef46ac1
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 596a3286-4a18-4dda-a713-2f66838563af
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 6cd0f951-f470-44d2-905b-bcccf633cd8c
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: b69de681-7e63-41c0-8e14-8202e45866a1
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '5':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: dfea8386-be9f-4017-ac89-7d7d7df0ce76
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 21756477-a49c-4681-9737-72b1c233fc79
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: edc07f9c-f09c-40cb-b305-907d0ca8ff58
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 69dac69b-b0f0-40a8-a23e-54084871cf70
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: 16b42a87-46fb-4d7e-a64e-6efbed6ffd16
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    metadata:
+      player-skin-name: Boeit niet
+      player-skin-use-latest-skin: false
+    name: SpinazieMeneer
+    uuid: c179872c-d127-44f1-bdd4-335705340df0
+    traits:
+      type: PLAYER
+      location:
+        bodyYaw: !!float 'NaN'
+        x: '0.0'
+        y: '0.0'
+        z: '0.0'
+        yaw: '0.0'
+        pitch: '0.0'
+      spawned: true
+    traitnames: type,location,mounttrait,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
